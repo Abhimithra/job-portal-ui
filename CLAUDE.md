@@ -10,7 +10,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - `npm run preview` — Preview production build
 
 ## Repository Structure
-ß
+
 ```
 job-portal-ui/
 ├── public/               # Static assets (favicons, company logos)
